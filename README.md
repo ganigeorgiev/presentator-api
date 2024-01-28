@@ -1,6 +1,9 @@
 Presentator v2 REST API [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
 ======================================================================
 
+> [!IMPORTANT]
+> This repo is for the older Presentator v2 and it is no longer maintained.
+
 Presentator v2 REST API server implementation, written in PHP and based on [Yii2](https://www.yiiframework.com/).
 
 **Detailed API reference could be found here - [https://presentator.io/docs](https://presentator.io/docs).**
